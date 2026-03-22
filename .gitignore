@@ -1,0 +1,15 @@
+# 🐍 Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# 📊 Power BI & System
+*.pbix.zip
+*.pbit
+*.log
+
+# 🏗️ IDE Settings
+.vscode/
+.idea/
+.DS_Store
